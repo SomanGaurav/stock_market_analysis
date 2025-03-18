@@ -1,0 +1,24 @@
+{
+  "name": "stock_market_analysis",
+  "version": "1.0.1",
+  "description": "Web based application for stock prediction and analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SomanGaurav/stock_market_analysis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SomanGaurav/stock_market_analysis/issues"
+  },
+  "homepage": "https://github.com/SomanGaurav/stock_market_analysis#readme",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
