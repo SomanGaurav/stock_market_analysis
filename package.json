@@ -4,7 +4,8 @@
   "description": "Web based application for stock prediction and analysis",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1" , 
+    "start:client": "cd client && npm run dev"
   },
   "repository": {
     "type": "git",
